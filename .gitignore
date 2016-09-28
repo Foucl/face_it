@@ -90,3 +90,6 @@ ENV/
 
 # Videos
 vid/
+all_frames_scrambled/
+all_frames_scrambled_triangled/
+scrambled_vids/
