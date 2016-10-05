@@ -1,0 +1,9 @@
+img,y_offset,x_offset,width_mult,height_mult,adjusts
+./img/fre99m03_frame_1.jpg,-9,-6,0.8,1.05,"[21, 0, 20, 0]"
+./img/ekl99m03_frame_1.jpg,-9,-6,0.8,1.05,"[21, 0, 20, 0]"
+./img/fre99m07_frame_1.jpg,0,0,0.85,1.0,"[10, 0, 21, 0]"
+./img/ekl99m07_frame_1.jpg,0,0,0.85,1.0,"[10, 0, 21, 0]"
+./img/fre99m30_frame_1.jpg,0,0,0.98,1.0,"[0, 0, 0, 0]"
+./img/ekl99m30_frame_1.jpg,0,0,0.98,1.0,"[0, 0, 0, 0]"
+./img/fre99m28_frame_1.jpg,-5,-4,1.0,1.1,"[0, 0, 4, 0]"
+./img/ekl99m28_frame_1.jpg,-5,-4,1.0,1.1,"[0, 0, 4, 0]"

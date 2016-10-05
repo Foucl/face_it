@@ -1,0 +1,262 @@
+[
+    {
+        "width_mult": 0.8, 
+        "idx": "fre99m03", 
+        "adjusts": [
+            30, 
+            0, 
+            42, 
+            0
+        ], 
+        "y_offset": -6, 
+        "x_offset": -3, 
+        "height_mult": 1.15
+    }, 
+    {
+        "width_mult": 0.8, 
+        "idx": "ekl99m03", 
+        "adjusts": [
+            30, 
+            0, 
+            42, 
+            0
+        ], 
+        "y_offset": -6, 
+        "x_offset": -3, 
+        "height_mult": 1.15
+    }, 
+    {
+        "width_mult": 0.85, 
+        "idx": "fre99m07", 
+        "adjusts": [
+            10, 
+            0, 
+            21, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 0, 
+        "height_mult": 1.0
+    }, 
+    {
+        "width_mult": 0.85, 
+        "idx": "ekl99m07", 
+        "adjusts": [
+            10, 
+            0, 
+            21, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 0, 
+        "height_mult": 1.0
+    }, 
+    {
+        "width_mult": 0.98, 
+        "idx": "fre99m30", 
+        "adjusts": [
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 0, 
+        "height_mult": 1.0
+    }, 
+    {
+        "width_mult": 0.98, 
+        "idx": "ekl99m30", 
+        "adjusts": [
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 0, 
+        "height_mult": 1.0
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "fre99m28", 
+        "adjusts": [
+            0, 
+            0, 
+            4, 
+            0
+        ], 
+        "y_offset": -5, 
+        "x_offset": -4, 
+        "height_mult": 1.1
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "ekl99m28", 
+        "adjusts": [
+            0, 
+            0, 
+            4, 
+            0
+        ], 
+        "y_offset": -5, 
+        "x_offset": -4, 
+        "height_mult": 1.1
+    }, 
+    {
+        "width_mult": 0.93, 
+        "idx": "fre99w04", 
+        "adjusts": [
+            0, 
+            0, 
+            7, 
+            0
+        ], 
+        "y_offset": -3, 
+        "x_offset": -3, 
+        "height_mult": 1.04
+    }, 
+    {
+        "width_mult": 0.93, 
+        "idx": "ekl99w04", 
+        "adjusts": [
+            0, 
+            0, 
+            7, 
+            0
+        ], 
+        "y_offset": -3, 
+        "x_offset": -3, 
+        "height_mult": 1.04
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "fre99w12", 
+        "adjusts": [
+            0, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": -5, 
+        "x_offset": 0, 
+        "height_mult": 1.05
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "ekl99w12", 
+        "adjusts": [
+            0, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": -5, 
+        "x_offset": 0, 
+        "height_mult": 1.05
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "fre99w22", 
+        "adjusts": [
+            6, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": -8, 
+        "x_offset": -1, 
+        "height_mult": 1.07
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "ekl99w22", 
+        "adjusts": [
+            6, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": -8, 
+        "x_offset": -1, 
+        "height_mult": 1.07
+    }, 
+    {
+        "width_mult": 0.98, 
+        "idx": "fre99w31", 
+        "adjusts": [
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "y_offset": 6, 
+        "x_offset": 2, 
+        "height_mult": 0.97
+    }, 
+    {
+        "width_mult": 0.95, 
+        "idx": "fre99w57", 
+        "adjusts": [
+            -1, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 1, 
+        "height_mult": 1.04
+    }, 
+    {
+        "width_mult": 0.95, 
+        "idx": "ekl99w57", 
+        "adjusts": [
+            -1, 
+            0, 
+            1, 
+            0
+        ], 
+        "y_offset": 0, 
+        "x_offset": 1, 
+        "height_mult": 1.04
+    }, 
+    {
+        "width_mult": 0.98, 
+        "idx": "ekl99w31", 
+        "adjusts": [
+            0, 
+            0, 
+            0, 
+            0
+        ], 
+        "y_offset": 6, 
+        "x_offset": 2, 
+        "height_mult": 0.97
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "fre99w61", 
+        "adjusts": [
+            1, 
+            0, 
+            2, 
+            0
+        ], 
+        "y_offset": -6, 
+        "x_offset": 0, 
+        "height_mult": 1.05
+    }, 
+    {
+        "width_mult": 1.0, 
+        "idx": "ekl99w61", 
+        "adjusts": [
+            1, 
+            0, 
+            2, 
+            0
+        ], 
+        "y_offset": -6, 
+        "x_offset": 0, 
+        "height_mult": 1.05
+    }
+]
